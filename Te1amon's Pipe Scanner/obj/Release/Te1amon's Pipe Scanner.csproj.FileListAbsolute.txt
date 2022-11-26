@@ -1,0 +1,11 @@
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\bin\Release\Te1amon's Pipe Scanner.exe.config
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\bin\Release\Te1amon's Pipe Scanner.exe
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\bin\Release\Te1amon's Pipe Scanner.pdb
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\obj\Release\Te1amon's Pipe Scanner.csproj.AssemblyReference.cache
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\obj\Release\Te1amon's Pipe Scanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\obj\Release\Te1amon_s_Pipe_Scanner.Form1.resources
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\obj\Release\Te1amon_s_Pipe_Scanner.Properties.Resources.resources
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\obj\Release\Te1amon's Pipe Scanner.csproj.GenerateResource.cache
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\obj\Release\Te1amon's Pipe Scanner.csproj.CoreCompileInputs.cache
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\obj\Release\Te1amon's Pipe Scanner.exe
+C:\Users\jrrei\Desktop\Pipe Scanner\Te1amon's Pipe Scanner\Te1amon's Pipe Scanner\obj\Release\Te1amon's Pipe Scanner.pdb
